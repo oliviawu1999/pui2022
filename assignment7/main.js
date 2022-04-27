@@ -1,4 +1,6 @@
 /*Typewriter*/
+/*References1: https://www.w3schools.com/howto/howto_js_typewriter.asp*/
+/*References2:https://www.youtube.com/watch?v=c2ggwtWNzIs*/
 class Typewriter{
     constructor(){
         this.textData=['interaction','data-driven'];
