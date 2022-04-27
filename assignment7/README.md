@@ -7,7 +7,7 @@ Figma Page
 https://www.figma.com/file/VpenS96jOlA3QYelhA3EWL/PUI-Assignment2%263_xuyangw?node-id=320%3A2170
 
 Hosted Site
-https://assignment8-9cc40.web.app
+https://assignment-64dd7.web.app/index.html
 
 
 Part c: Description
